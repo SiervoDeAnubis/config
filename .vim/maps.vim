@@ -4,7 +4,7 @@ nnoremap <Leader>w :w<CR>
 nnoremap <Leader>q :q<CR>
 
 " Plugins
-map <Leader>nt :NERDTreeFind<CR>
+map <Leader>f :NERDTreeFocus<CR>
 map <Leader>p :Files<CR>
 map <Leader>ag :Ag<CR>
 
